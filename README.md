@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [React Native for Windows](https://github.com/microsoft/react-native-windows)
-- 📫 How to reach me: [![Follow me on Twitter](https://img.shields.io/static/v1?label=&message=Follow&style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=alexsklar)
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on [Agentic OS]([https://github.com/microsoft/react-native-windows](https://developer.microsoft.com/en-us/windows/agentic/))
+- 📫 How to reach me: [![Follow me on X](https://img.shields.io/static/v1?label=&message=Follow&style=social&logo=x)](https://twitter.com/intent/follow?screen_name=alexsklar)
+- [![LinkedIn](LI-In-Bug.png)](https://www.linkedin.com/in/asklar)
 - ⚡ Fun fact: I like to play the piano!
 
 
