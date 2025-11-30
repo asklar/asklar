@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Making Windows an Agentic OS](https://developer.microsoft.com/en-us/windows/agentic/)
+- 🔭 I’m currently working on [enabling agentic workflows on Windows](https://developer.microsoft.com/en-us/windows/agentic/)
 - 🧑‍💻 Follow my blog at https://asklar.dev
 - 📫 How to reach me: [![Follow me on X](https://img.shields.io/static/v1?label=&message=Follow&style=social&logo=x)](https://twitter.com/intent/follow?screen_name=alexsklar)  [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/asklar)
 - ⚡ Fun fact: I like to play the piano!
